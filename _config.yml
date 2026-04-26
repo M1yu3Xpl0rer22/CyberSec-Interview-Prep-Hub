@@ -1,0 +1,7 @@
+title: CyberSec Interview Prep Hub
+description: "167+ cybersecurity interview questions & answers — from SOC L1 to advanced scenarios"
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+show_downloads: true
