@@ -183,18 +183,21 @@ Quick-reference table of **must-know topics** by category:
 
 ---
 
-## ❓ Interview Questions & Answers
+## ❓ Interview Questions & Answers — 167+ Q&A
 
-We've compiled **50+ real interview questions** with detailed answers, organized by difficulty:
+We've compiled **167+ real interview questions with detailed answers**, organized by category:
 
-| Level | What's Covered | Count |
-|---|---|---|
-| 🟢 **Basic** | CIA Triad, OSI, TCP/UDP, encryption, ports, firewalls | 13 Q&A |
-| 🟡 **Intermediate** | Phishing, XSS, CSRF, SIEM, MITRE ATT&CK, Windows Event IDs | 11 Q&A |
-| 🔴 **Scenario-Based** | Ransomware response, data exfiltration, phishing clicks, zero-days | 6 scenarios |
-| 🏢 **Real Company** | Questions from TCS, Wipro, Deloitte, PwC, startups | 34 questions |
+| # | Category | Topics | Q&A |
+|---|---|---|---|
+| 01 | [🟢 **Basic Cybersecurity**](pages/01-basic-cybersecurity.md) | CIA Triad, Kill Chain, MITRE ATT&CK, encryption, hashing | 17 |
+| 02 | [🌐 **Network Security**](pages/02-network-security.md) | OSI, TCP/IP, DNS, VPN, firewalls, IDS/IPS, VLAN, NAT | 32 |
+| 03 | [🟡 **Intermediate**](pages/03-intermediate.md) | TLS/SSL, brute force, DMZ, DLP, data exfiltration, Linux | 22 |
+| 04 | [🔴 **Pentesting & Red Team**](pages/04-pentesting.md) | Nmap, AV bypass, EDR, supply chain, CVSS, C2, zero-day | 21 |
+| 05 | [🛡️ **Application Security**](pages/05-application-security.md) | OWASP Top 10, XSS, SQLi, CSRF, CORS, CSP, STRIDE | 26 |
+| 06 | [🔵 **SOC / IR / DFIR**](pages/06-soc-ir-dfir.md) | Incident Response, ransomware, phishing, Windows events, malware | 23 |
+| 07 | [📱 **Mobile, Cloud & More**](pages/07-misc.md) | Mobile pentesting, AWS S3, coding challenges, opinion questions | 26 |
 
-### 👉 **[View All Questions & Answers →](questions.md)**
+### 👉 **[Quick Reference Q&A →](questions.md)**
 
 ---
 
